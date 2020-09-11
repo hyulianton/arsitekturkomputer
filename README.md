@@ -1,5 +1,5 @@
 # Arsitektur Komputer
-1. Komputer dan sistem
+1. [Komputer dan sistem](komputerdansistem.md)
 2. Konsep-konsep sistem dan arsitektur sistem
 3. Sistem Bilangan
 4. Format-format data
